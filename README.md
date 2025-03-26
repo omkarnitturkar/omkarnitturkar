@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar Nitturkar</h1>
 <h3 align="center">"Aspiring Data Analyst with a Passion for Data Visualization & Insights"</h3>
 
-<p align="center">
-👋 I'm a Data Analyst 🚀"
-</p>
 
 - 🌱 I’m currently learning **Advanced Power BI & Data Analysis Techniques**
 
